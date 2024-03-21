@@ -44,7 +44,7 @@ address {
 }
 
 .header-list-link:hover,
-:focus {
+.header-list-link:focus {
   color: #404bbf;
 }
 
@@ -57,7 +57,7 @@ address {
 }
 
 .header-address-link:hover,
-:focus {
+.header-address-link:focus {
   color: #404bbf;
 }
 
@@ -87,7 +87,7 @@ address {
 }
 
 .hero-btn:hover,
-:focus {
+.hero-btn:focus {
   background: #404bbf;
 }
 
