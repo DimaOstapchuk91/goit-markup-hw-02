@@ -44,7 +44,7 @@ address {
 }
 
 .header-list-link:hover,
-:active {
+.header-list-link:active {
   color: #404bbf;
 }
 
@@ -70,23 +70,17 @@ address {
   font-size: 56px;
   line-height: 1.07;
   letter-spacing: 0.02em;
-  text-align: center;
   color: #fff;
 }
 
 .hero-btn {
   font-family: 'Roboto', sans-serif;
-  border-radius: 4px;
-  border-color: #4d5ae5;
   background-color: #4d5ae5;
   color: #fff;
-  width: 169px;
-  height: 56px;
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.04em;
-  box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
   cursor: pointer;
 }
 
@@ -97,7 +91,6 @@ address {
 /* advantages of the company section */
 
 .advantages-title {
-  display: none;
 }
 
 .advantages-list-title {
@@ -124,16 +117,10 @@ address {
   font-size: 36px;
   line-height: 1.11;
   letter-spacing: 0.02em;
-  text-align: center;
   color: #2e2f42;
 }
 
 .team-list-item {
-  border-radius: 0 0 4px 4px;
-  width: 264px;
-  height: 380px;
-  box-shadow: 0 2px 1px 0 rgba(46, 47, 66, 0.08),
-    0 1px 1px 0 rgba(46, 47, 66, 0.16), 0 1px 6px 0 rgba(46, 47, 66, 0.08);
   background: #fff;
 }
 
@@ -142,14 +129,12 @@ address {
   font-size: 20px;
   line-height: 1.2;
   letter-spacing: 0.02em;
-  text-align: center;
   color: #2e2f42;
 }
 
 .team-member-text {
   line-height: 1.5;
   letter-spacing: 0.02em;
-  text-align: center;
 }
 
 /* portfolio-section */
@@ -159,14 +144,10 @@ address {
   font-size: 36px;
   line-height: 1.11;
   letter-spacing: 0.02em;
-  text-align: center;
   color: #2e2f42;
 }
 
 .portfolio-list-item {
-  border: 1px solid #e7e9fc;
-  width: 360px;
-  height: 420px;
 }
 
 .portfolio-list-title {
@@ -175,13 +156,11 @@ address {
   line-height: 1.2;
   letter-spacing: 0.02em;
   color: #2e2f42;
-  text-align: center;
 }
 
 .portfolio-list-text {
   line-height: 1.5;
   letter-spacing: 0.02em;
-  text-align: center;
 }
 
 /* footer */
